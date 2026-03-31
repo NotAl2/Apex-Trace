@@ -27,7 +27,7 @@ Apex Trace aims to be the ultimate **on-road companion for motorcycle riders**, 
 
 ### 📊 Dashboard UI (Early Stage)
 
-![Dashboard](./assets/Screenshot_2026-03-31-11-10-24-134_com.notal2.ApexTrace.jpg)
+![Dashboard](<img src="./assets/screenshot.png" width="250" />)
 
 > ⚠️ Currently only the **map rendering is functional**. Most features are under development.
 
