@@ -204,5 +204,3 @@ GitHub: [https://github.com/NotAl2](https://github.com/NotAl2)
 ## ⭐ Support
 
 If you like the project, consider giving it a ⭐ on GitHub!
-
----
