@@ -1,7 +1,3 @@
-Here’s a clean, professional **README.md** you can directly paste into your GitHub repo 👇
-
----
-
 # 🏍️ Apex Trace
 
 Apex Trace is a **real-time rider companion app** designed for bikers who ride together.
@@ -203,16 +199,9 @@ If you like the project, consider giving it a ⭐ on GitHub!
 
 ---
 
-### 🔥 Extra (Optional)
+## 🧠 Development Note
 
-You can also include your dev prompt file here for contributors:
+This project was developed using an AI-assisted workflow, leveraging tools such as Claude and GitHub Copilot.  
+A significant portion of the development process followed a "vibe coding" approach — rapidly iterating on ideas, features, and UI with the help of AI, while maintaining full control over design decisions and implementation direction.
 
-* 📄 Dev Prompts & Architecture → 
-
----
-
-If you want, I can also:
-
-* generate a **cool logo + banner**
-* design a **landing page**
-* or make your README look like a **top-tier open source project (animations, badges, etc.)**
+* 📄 Dev Prompts & Architecture → [Development Guide](./docs/apex-trace-dev-prompts.md)
