@@ -23,9 +23,7 @@ Apex Trace aims to be the ultimate **on-road companion for motorcycle riders**, 
 
 ### 📊 Dashboard UI (Early Stage)
 
-<p align="center">
-  <img src="./assets/screenshot.png" width="50%" />
-</p>
+[Dashboard](<img src="./assets/screenshot.png" width="50%" />)
 
 > ⚠️ Currently only the **map rendering is functional**. Most features are under development.
 
@@ -186,6 +184,16 @@ A single app where riders can:
 
 ---
 
+## 🧠 Development Note
+
+This project was developed using an AI-assisted workflow, leveraging tools such as Claude and GitHub Copilot.  
+A significant portion of the development process followed a "vibe coding" approach — rapidly iterating on ideas, features, and UI with the help of AI, while maintaining full control over design decisions and implementation direction.
+
+* 📄 Dev Prompts & Architecture → [Development Guide](./docs/apex-trace-dev-prompts.md)
+
+
+---
+
 ## 👨‍💻 Author
 
 **Aryan Durgude**
@@ -198,10 +206,3 @@ GitHub: [https://github.com/NotAl2](https://github.com/NotAl2)
 If you like the project, consider giving it a ⭐ on GitHub!
 
 ---
-
-## 🧠 Development Note
-
-This project was developed using an AI-assisted workflow, leveraging tools such as Claude and GitHub Copilot.  
-A significant portion of the development process followed a "vibe coding" approach — rapidly iterating on ideas, features, and UI with the help of AI, while maintaining full control over design decisions and implementation direction.
-
-* 📄 Dev Prompts & Architecture → [Development Guide](./docs/apex-trace-dev-prompts.md)
