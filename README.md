@@ -196,7 +196,7 @@ A significant portion of the development process followed a "vibe coding" approa
 
 ## 👨‍💻 Author
 
-**Aryan Durgude**
+**Aryan (alias:- NotAl2)**
 GitHub: [https://github.com/NotAl2](https://github.com/NotAl2)
 
 ---
